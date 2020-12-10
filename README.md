@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, Hellodit Here! 👋
+
+Thanks for visiting my github page.   
+Here is some summary that i've done.
 
 [![Asditas's github stats](https://github-readme-stats.vercel.app/api?username=hellodit)](https://github.com/hellodit)
 
