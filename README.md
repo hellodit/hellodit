@@ -3,7 +3,7 @@
 Thanks for visiting my github page.   
 Here is some summary that i've done.
 
-[![Asditas's github stats](https://github-readme-stats.vercel.app/api?username=hellodit)](https://github.com/hellodit)
+[![Hellodit's github stats](https://github-readme-stats.vercel.app/api?username=hellodit)](https://github.com/hellodit)
 
 ### 📫 Get In Touch!
 - Twitter: https://twitter.com/hellodit
