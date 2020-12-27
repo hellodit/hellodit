@@ -4,7 +4,7 @@ Thanks for visiting my github page.
 Here is some summary that i've done.
 
 ### 📫 Get In Touch!
-- Twitter: https://twitter.com/hellodit
+- Twitter: https://twitter.com/asditaprasetya
 - Personal Blog: https://asditaprasetya.com
 - Medium: https://hellodit.medium.com/
 - LinkedIn: https://www.linkedin.com/in/asditaprasetya/
