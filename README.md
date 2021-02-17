@@ -1,7 +1,6 @@
 ### Hi there, Asdita Prasetya Here! 👋
 
-Thanks for visiting my github page.   
-Here is some summary that i've done.
+Thanks for visiting my github page. 
 
 ### 📫 Get In Touch!
 - Twitter: https://twitter.com/asditaprasetya
