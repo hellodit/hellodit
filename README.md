@@ -3,10 +3,9 @@
 Thanks for visiting my github page. 
 
 ### 📫 Get In Touch!
-- Twitter: https://twitter.com/asditaprasetya
-- Personal Blog: https://asditaprasetya.com
+- YouTube: https://www.youtube.com/c/AsditaPrasetya1
 - Medium: https://hellodit.medium.com/
-- LinkedIn: https://www.linkedin.com/in/asditaprasetya/
+- Twitter: https://twitter.com/asditaprasetya
 
 
 <!--
