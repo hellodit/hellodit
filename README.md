@@ -3,7 +3,7 @@
 Thanks for visiting my github page. 
 
 ### 📫 Get In Touch!
-- Support me: https://lynk.id/asditaprasetya
+- Support me: https://hellodit.mayar.link
 - YouTube: https://www.youtube.com/asditaprasetya
 - Medium: https://hellodit.medium.com/
 - Twitter: https://twitter.com/asditaprasetya
